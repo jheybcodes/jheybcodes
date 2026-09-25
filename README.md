@@ -1,5 +1,4 @@
-# Welcome to my profile ^^
-
+# **Welcome to my profile** ^^
 <p align="center">
   <img src="Reze.gif" width="100%" alt="banner">
 </p>
