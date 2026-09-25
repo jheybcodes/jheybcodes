@@ -9,7 +9,7 @@ I build applications using React Native and games using Unity
 - CSS
 - React Native
 
-##Links
+## Links
 https://discord.com/users/jheybiii
 
 Feel free to hit me up if you have a job offer
