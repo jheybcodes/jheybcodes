@@ -9,11 +9,13 @@ I build applications using React Native and games using Unity
 
 ## 🛠️ Languages & Tools
 
-- Javascript - C#
-- HTML       - Unity
+- Javascript 
+- HTML       
 - CSS
 - React Native
-
+- C#
+- Unity
+  
 ## Links
 https://discord.com/users/jheybiii
 
