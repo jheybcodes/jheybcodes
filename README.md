@@ -9,8 +9,8 @@ I build applications using React Native and games using Unity
 
 ## 🛠️ Languages & Tools
 
-- Javascript
-- HTML
+- Javascript - C#
+- HTML       - Unity
 - CSS
 - React Native
 
