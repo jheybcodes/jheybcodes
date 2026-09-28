@@ -9,14 +9,9 @@ I build applications using React Native and games using Unity
 
 ## 🛠️ Languages & Tools
 
-- Javascript 
-- HTML       
-- CSS
-- React Native
-- C#
-- Unity
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,cs,unity)](https://skillicons.dev)
   
 ## Links
-https://discord.com/users/jheybiii
+![Static Badge](https://img.shields.io/badge/discord-%23FFFFFF?style=for-the-badge&logo=discord&logoColor=%235865F2)
 
 Feel free to hit me up if you have a job offer
