@@ -9,7 +9,7 @@ I build applications using React Native and games using Unity
 
 ## 🛠️ Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,cs,unity)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,react,cs,unity)
   
 ## Links
 <a href=""><img src="https://img.shields.io/badge/discord-%23FFFFFF?style=for-the-badge&logo=discord&logoColor=%235865F2"/><a/>
